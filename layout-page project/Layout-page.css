@@ -1,0 +1,376 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+#navbar{
+    background-color: crimson;
+    height: 82px;
+    display: flex;
+}
+#logo{
+    color: #282C6D;
+    font-size: 38px;
+    padding: 9px;
+    margin-left: 53px;
+}
+#social-media{
+    display: flex;
+    margin-left: 740px;
+    padding: 9px;
+}
+.image{
+    font-size: 44px;
+    margin-right: 20px;
+}
+#contact{
+    padding: 20px;
+    background-color: #FFD910;
+    font-size: larger;
+    width: 167px;
+}
+#header{
+    margin-left: 100px;
+    margin-top: 100px;
+    display: flex;
+}
+#header-para1{
+    width: 497px;
+    font-size: 35px;
+    line-height: 70px;
+}
+#header-para1 b{
+    color: #04B200;
+}
+#header-para2{
+    width: 497px;
+    margin-top: 35px;
+    line-height: 36px;
+    color: #9A9A9A;
+}
+#container{
+    width: 218px;
+    height: 57px;
+    background-color: #282C6D;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+    margin-top: 65px;
+    padding-top: 14px;
+    padding-left: 9px;
+}
+#header-img{
+    width: 557px;
+    height: 557px;
+    margin-left: 150px;
+}
+#client{
+    height: 330px;
+    width: 1196px;
+    margin-left: 100px;
+    margin-top: 263px;
+    margin-bottom: 61px;
+    text-align: center;
+}
+#container-1{
+    height: 151px;
+    width: 472px;
+    margin-left: 362px;
+    text-align: center;
+}
+#trusted-clients{
+    color: #767676;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+#client-para{
+    color: #000000;
+    font-size: 30px;
+}
+.client-img{
+    margin-right: 40px;
+}
+hr{
+    color: #D6D6D6;
+}
+#about-us{
+    height: 148px;
+    margin-left: 100px;
+    margin-top: 70px;
+    display: flex;
+}
+#about-container-1{
+    width: 476px;
+}
+#About{
+    color: #FF5325;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+#About-para{
+    color: #000000;
+    font-size: 30px;
+}
+#container-2 button{
+    background-color: #E1FFE0;
+    height: 58px;
+    width: 176px;
+    display: flex;
+    color: #04B200;
+    margin-left: 520px;
+    margin-top: 115px;
+    padding-top: 20px;
+    padding-left: 30px;
+    border: none;
+}
+#container-2-arrow{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#about-rectangle{
+    height: 523px;
+    width: 1174px;
+    margin-left: 100px;
+    margin-top: 51px;
+    background-image: url(./IMAGE/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+#about-img{
+    display: flex;
+}
+#about-rectangle-2{
+    height: 161px;
+    width: 344px;
+    background-color: #282C6D;
+    margin-top: 362px;
+    margin-left: 737px;
+    border-radius: 7px;
+    padding: 20px;
+}
+#about-rect2-para{
+    line-height: 28px;
+}
+#about-rect2-para1{
+    color: #FFFFFF;
+    line-height: 28px;
+}
+#about-rect2-para2{
+    color: #E3E3E3;
+    line-height: 28px;
+}
+
+
+#about-what-we-do{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 103px;
+}
+#about-what-we-do h3{
+    color: #FF5325;
+    margin-bottom: 30px;
+}
+#about-what-we-do h1{
+    width: 250px;
+    line-height: 46px;
+    font-size: 25px;
+}
+#about-what-we-do p{
+    margin-left: 250px;
+    width: 500px;
+    margin-top: 70px;
+    color: gray;
+    line-height: 36px;
+}
+#about-business{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 108px;
+}
+.about-business-div{
+    margin-right: 135px;
+}
+.svg-image{
+    margin-bottom: 30px;
+    width: 50px;
+    height: 50px;
+}
+.about-business-div-h1{
+    margin-bottom: 20px;
+    width: 290px;
+}
+.about-business-div-para{
+    color: gray;
+    width: 260px;
+    margin-bottom: 50px;
+}
+#learn-button{
+    margin: 15px;
+}
+#button{
+    background-color: #04B200;
+    color: white;
+    border-radius: 30px;
+}
+#about-num-image{
+    margin-top: 133px;
+    margin-left: 100px;
+}
+#works{
+    height: 148px;
+    margin-left: 100px;
+    margin-top: 70px;
+    display: flex;
+}
+#works-container-1{
+    width: 350px;
+}
+#work-heading{
+    color: #FF5325;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+#work-para{
+    color: #000000;
+    font-size: 30px;
+}
+#work-container-2 button{
+    background-color: #E1FFE0;
+    height: 58px;
+    width: 176px;
+    display: flex;
+    color: #04B200;
+    margin-left: 650px;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-left: 30px;
+    border: none;
+}
+#work-container-2-arrow{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.our-works-app{
+    margin-left: 100px;
+    margin-top: 89px;
+    display: flex;
+}
+#work-food-app-img{
+    height: 467px;
+    width: 564px;
+    margin-bottom: 37px;
+    margin-right: 46px;
+}
+#work-food-heading{
+    color: #000000;
+    margin-bottom: 18px;
+}
+#work-food-para{
+    color: #5F5F5F;
+    line-height: 30px;
+    width: 538px;
+}
+#work-Epay-app-img{
+   height: 312px;
+    width: 564px;
+    margin-bottom: 37px; 
+}
+#work-Epay-heading{
+    color: #000000;
+    margin-bottom: 18px;
+}
+#work-Epay-para{
+    color: #5F5F5F;
+    line-height: 30px;
+    width: 538px;
+}
+#work-podcast-app-img{
+    height: 312px;
+    width: 564px;
+    margin-bottom: 37px;
+    margin-right: 46px;
+}
+#work-podcast-heading{
+    color: #000000;
+    margin-bottom: 18px;
+}
+#work-podcast-para{
+    color: #5F5F5F;
+    line-height: 30px;
+    width: 538px;
+}
+#work-service-app-img{
+    height: 467px;
+    width: 564px;
+    margin-bottom: 37px;
+}
+#work-service-heading{
+    color: #000000;
+    margin-bottom: 18px;
+}
+#work-service-para{
+    color: #5F5F5F;
+    line-height: 30px;
+    width: 538px;
+}
+
+#testimonial-bg{
+    background-color: skyblue;
+    margin-top: 158px;
+}
+#testimonial{
+    height: 148px;
+    margin-left: 100px;
+    margin-top: 102px;
+    display: flex;
+}
+#testimonial-container-1{
+    width: 300px;
+}
+#testimonial-heading{
+    color: #FF5325;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+#testimonial-para{
+    color: #000000;
+    font-size: 30px;
+}
+#testimonial-container-2 button{
+    background-color: #E1FFE0;
+    height: 58px;
+    width: 176px;
+    display: flex;
+    color: #04B200;
+    margin-left: 650px;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-left: 30px;
+    border: none;
+}
+#testimonial-profile{
+    margin-left: 100px;
+}
+#testimonial-profile-1{
+    height: 313px;
+    width: 497px;
+    margin-top: 72px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+#test-profile-1-h1{
+    height: 30px;
+    width: 36px;
+    margin-bottom: 18px;
+    color: #04B200;
+    font-size: 75px;
+    line-height: 60px;
+}
+#test-profile-1-para{
+    color: #5F5F5F;
+    width: 373px;
+    line-height: 30px;
+}
