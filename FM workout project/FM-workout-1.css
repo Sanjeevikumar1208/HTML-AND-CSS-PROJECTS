@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(12, 12, 12, 0.884);
+}
+#L-box1{
+    background-color: rgba(20, 20, 20, 0.904);
+    height: 550px;
+    width: 350px;
+    position: relative;
+    left: 480px;
+    top: 70px;
+    border-radius: 15px;
+    padding: 25px;
+    text-align: center;
+}
+#L-box2{
+    position: absolute;
+}
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.boxes{
+    height: 40px;
+    width: 300px;
+    background-color: rgba(34, 34, 34, 0.61);
+    border-radius: 10px;
+    padding: 12px;
+}
+#L-box1:hover{
+    transform: scaleX(1.2);
+    transform: scaleY(1.2);
+    transition-duration: 2s;
+}
+.boxes:hover{
+    transform: scaleX(1.1);
+    transition-duration: 2s;
+}
